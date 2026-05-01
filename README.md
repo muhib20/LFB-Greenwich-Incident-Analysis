@@ -17,6 +17,8 @@ and clustering techniques.
 **Dataset:** LFB Incidents 2019–2022 (12,861 records)  
 **Tools:** Python, pandas, scikit-learn, matplotlib, seaborn
 
+![LFB Greenwich Data Mining Workflow](workflow.png)
+
 ---
 
 ## ❓ Business Problems
